@@ -1,4 +1,4 @@
-﻿#reguires -runasadministrator
+﻿#requires -runasadministrator
 
 param(
     [Parameter(Mandatory=$true,ParameterSetName="External Database")]
